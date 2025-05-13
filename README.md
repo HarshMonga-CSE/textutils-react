@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-> [Click here to view the live app](https://harshmonga-cse.github.io/textutils-react/) *(Replace this with your actual link)*
+> [Click here to view the live app](https://harshmonga-cse.github.io/textutils-react/) 
 
 ---
 
@@ -30,6 +30,19 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🌙 Dark Mode Enabled
+![Dark Mode](./screenshots/darkmode.png)
+
+### ✍️ Text Input Section
+![Text Input](./screenshots/input.png)
+
+### 🔠 Text Converted to Uppercase
+![Uppercase Result](./screenshots/result.png)
 
 
 ## Available Scripts
