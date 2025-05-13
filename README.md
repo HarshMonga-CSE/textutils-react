@@ -1,6 +1,36 @@
-# Getting Started with Create React App
+# 📝 TextUtils
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**TextUtils** is a powerful and responsive React-based web app that offers various text utilities. You can convert text to uppercase/lowercase, remove extra spaces, count words/characters, and much more — all in one clean interface.
+
+---
+
+## 🔗 Live Demo
+
+> [Click here to view the live app](https://harshmonga-cse.github.io/textutils-react/) *(Replace this with your actual link)*
+
+---
+
+## ✨ Features
+
+- 🔠 Convert text to **Uppercase** / **Lowercase**
+- 🔍 Remove **Extra Spaces**
+- 🔢 Count **Words** and **Characters**
+- 📋 **Copy Text** to Clipboard
+- 🌗 Toggle between **Dark Mode** / **Light Mode**
+- ⚡ Instant results with no page reloads
+
+---
+
+## 🛠 Tech Stack
+
+- React.js  
+- JavaScript  
+- HTML & CSS  
+- Bootstrap (or Tailwind CSS if you used that)
+
+---
+
+
 
 ## Available Scripts
 
